@@ -1,0 +1,26 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.home-buttons {
+    margin-top: 20px;
+}
+
+.home-button {
+    background-color: #FF7F50;
+    color: white;
+    padding: 15px 30px;
+    margin: 10px;
+    border-radius: 30px;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.home-button:hover {
+    background-color: #FF4C29;
+    transform: scale(1.1);
+}

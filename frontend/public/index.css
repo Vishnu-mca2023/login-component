@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #6D83F2, #60D2F0);
+    overflow-x: hidden;
+}
+
+h1, h2 {
+    color: #fff;
+    text-align: center;
+}
